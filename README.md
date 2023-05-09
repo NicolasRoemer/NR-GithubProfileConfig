@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @pandoran-tr (My Initials are NTR and I sometimes consider my head to be a pandora's box, so thats why I choose pandoran-tr.
- sadly, better abbreviations were already taken...)
+- 👋 Hi, I’m pandorantr
 - 👀 I’m interested in Data Science & beginner-level coding in conjunction with Social Sciences.  
 - 🌱 I’m currently learning R and/or pyhton and I'm studying for a Bachelors degree in International Relations. 
 
