@@ -3,6 +3,6 @@
 - 🌱 I’m currently using R and/or learning python for my Bachelor thesis on factors of de-escalation in armed conflict. 
 
 <!---
-NicolasRoemer/pandoran-tr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+NicolasRoemer/NR-GithubProfileConfig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
