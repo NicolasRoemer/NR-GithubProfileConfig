@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nico
 - 👀 I’m interested in Data Science & beginner-level coding in conjunction with Social Sciences.  
-- 🌱 I’m currently learning R and/or pyhton and I'm working on my Bachelor thesis on factors of de-escalation in armed conflict. 
+- 🌱 I’m currently using R and/or learning python for my Bachelor thesis on factors of de-escalation in armed conflict. 
 
 <!---
 NicolasRoemer/pandoran-tr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
